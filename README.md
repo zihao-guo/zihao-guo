@@ -14,7 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/luokn/luokn/main/assets/wave.gif" width="30px" height="30px" /></h1>
 
+### Hi there 👋 I am `Zeio`, a French generalist engineer student.
+
+-   💬 Ask me about anything, I am happy to help;
+-   📫 Feel free to connect with me here: [<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />](mailto:zeio99guo@gmail.com)
+
+<h3 align="center">⚡ Technologies</h3>
+<p align="center">🖥️ Language · 🚀 Framework · 🛠️ Tools · 💻 OS · 💽 Database · 🔬 Research</p>
 
 <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
@@ -58,9 +66,16 @@ Here are some ideas to get you started:
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pycharm](https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
+![Overleaf](https://img.shields.io/static/v1?style=flat-square&message=Overleaf&color=47A141&logo=Overleaf&logoColor=FFFFFF&label=)
+![PyTorch](https://img.shields.io/static/v1?style=flat-square&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=)
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
+
 
