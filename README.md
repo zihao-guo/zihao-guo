@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/luokn/luokn/main/assets/wave.gif" width="30px" height="30px" /></h1>
 
-### Hi there 👋 I am `Zeio`, a French generalist engineer student.
+### Hi there 👋 I am `Zeio`, a French engineer student.
 
 -   💬 Ask me about anything, I am happy to help;
 -   📫 Feel free to connect with me here: [<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />](mailto:zeio99guo@gmail.com)
