@@ -7,6 +7,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+
+
+-   🌱 My current major is Applied Mathematics
+
 - 👯 I’m looking to collaborate on ...
 - 🤔🧠 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -17,11 +21,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/luokn/luokn/main/assets/wave.gif" width="30px" height="30px" /></h1>
 
 ### Hi there 👋 I am `Zeio`, A student studying in France.
-
--   🌱 My current major is Applied Mathematics
+-   ⚡ My site is live at https://zeio99.github.io/Zihao-GUO/
 -   🔭 Aspiring to be a good data engineer / data scientist!
--   💬 Ask me about anything, I am happy to help;
--   📫 Feel free to connect with me here: [<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />](mailto:zeio99guo@gmail.com)
+-   💬 Ask me about anything, I am happy to help, feel free to connect with me here: [<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />](mailto:zeio99guo@gmail.com)
 
 <h3 align="center">⚡ Technologies</h3>
 <p align="center">🖥️ Language · 🚀 Framework · 🛠️ Tools · 💻 OS · 💽 Database · 🔬 Research</p>
